@@ -1,6 +1,6 @@
 # Tilekit: A fast streaming compute engine for the multicore era.
 
-At Tilekit our mission is to create a smarter and faster way of working with compute. We are doing so by making a cross-platform streaming compute engine that is designed for the multicore era. We are focused on introducing easier abstractions for application developers to write high-performance client code, based on automatic parallelization techniques. The engine is written in Rust and powered by WebAssembly, WebGPU, and WebTransport.
+At Tilekit our mission is to create a smarter and faster way of working with compute. We are doing so by making a cross-platform streaming compute engine that is designed for the multicore era. We are focused on introducing easier abstractions for application developers to write high-performance code, based on automatic parallelization techniques. The engine is written in Rust and powered by WebAssembly, WebGPU, and WebTransport.
 
 At present, as part of our exploratory research, we are openly conducting a series of [hacks](https://github.com/tilekit/hacks) and making [open source](https://github.com/tilekit/opensource) contributions to build the engine from the ground up with quality foundations. Our ambition is to design it as close to the machine as possible, with minimal external dependencies. This approach allows for full control of the ecosystem, including the API, memory, and execution.
 
