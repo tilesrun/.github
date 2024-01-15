@@ -7,6 +7,6 @@ At present, as part of our exploratory research, we are openly conducting a seri
 A technical preview, serving as an experimental shell for testing compute kernels, is scheduled for Q1 2024.
 
 # Seeking Collaboration
-Contributions are very much welcomed even without large experience in WASM, WebGPU, or Rust. We hope that this project can be a sandbox for all of us to learn more about those technologies beyond this project's initial scope. 
+Contributions are very much welcomed even without large experience in open web standards or Rust. We hope that this project can be a sandbox for all of us to learn more about those technologies beyond this project's initial scope. 
 
 Our design needs feedback from real-world applications. Please don’t hesitate to contact us at [hello@tilekit.dev](mailto://hello@tilekit.dev) or join our [Discord](https://discord.gg/jNaYqjgRsB). We're open to collaboration and ready to help.
