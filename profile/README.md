@@ -1,6 +1,6 @@
 # Tilekit: A fast streaming compute engine for the multicore era.
 
-TLDR: Tilekit streamlines the development process for data-intensive workloads, such as massive geospatial, medical, time-series, and nearly any large structured dataset, on any device and over the network. It does this by abstracting low-level, performance-centered tools like Arrow, WASM, WebGPU, and WebTransport. In essence, TileKit empowers regular developers to tap into performance levels that previously required dedicated research and teams of people to achieve.
+*TLDR: Tilekit streamlines the development process for data-intensive workloads, such as massive geospatial, medical, time-series, and nearly any large structured dataset, on any device and over the network. It does this by abstracting low-level, performance-centered tools like Arrow, WASM, WebGPU, and WebTransport. In essence, TileKit empowers regular developers to tap into performance levels that previously required dedicated research and teams of people to achieve.*
 
 
 At Tilekit our mission is to create a smarter and faster way of working with compute. We are doing so by making a cross-platform streaming compute engine designed for the multicore era. Our vision is to build a game engine for apps, with a focus on introducing simpler abstractions for application developers to write high-performance code, especially for data-intensive use cases, based on automatic parallelization techniques. The engine is written in Rust and powered by WebAssembly, WebGPU, and WebTransport.
