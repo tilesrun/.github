@@ -4,7 +4,7 @@ Tilekit streamlines the development process for data-intensive workloads, such a
 
 At present, as part of our exploratory research around single source kernels and automatic parallelization techniques, we are openly conducting a series of [hacks](https://github.com/tilekit/hacks) and making upstream [open source](https://github.com/tilekit/opensource) contributions to build the engine from the ground up with quality foundations. Our ambition is to design it as close to the machine as possible, with minimal external dependencies. This approach allows for full control of the ecosystem, including the API, memory, and execution.
 
-A technical preview, serving as an experimental shell for testing compute kernels, is scheduled for Q1 2024.
+A technical preview, serving as an experimental shell for benchmarking compute kernels, is scheduled for Q1 2024.
 
 # Seeking Collaboration
 Contributions are very much welcomed even without large experience in open web standards or Rust. We hope that this project can be a sandbox for all of us to learn more about those technologies beyond this project's initial scope. 
