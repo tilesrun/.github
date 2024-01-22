@@ -1,6 +1,6 @@
 # Tilekit: A fast streaming compute engine for the multicore era.
 
-Tilekit streamlines the development process for data-intensive workloads, such as massive geospatial, medical, time-series, and nearly any large structured dataset, on any platform and over the network. It does this by abstracting low-level, performance-centered tools like Arrow, WASM, WebGPU, and WebTransport. In essence, TileKit empowers regular developers to tap into performance levels that previously required dedicated research and teams of people to achieve.
+Tilekit streamlines the development process for data-intensive workloads, such as massive geospatial, medical, time-series, and nearly any large structured dataset, on browsers or native platforms, and over the network. It does this by abstracting low-level, performance-centered tools like Arrow, WASM, WebGPU, and WebTransport. In essence, TileKit empowers regular developers to tap into performance levels that previously required dedicated research and teams of people to achieve.
 
 At present, as part of our exploratory research around single source kernels and automatic parallelization techniques, we are openly conducting a series of [hacks](https://github.com/tilekit/hacks) and making upstream [open source](https://github.com/tilekit/opensource) contributions to build the engine from the ground up with quality foundations. Our ambition is to design it as close to the machine as possible, with minimal external dependencies. This approach allows for full control of the ecosystem, including the API, memory, and execution.
 
