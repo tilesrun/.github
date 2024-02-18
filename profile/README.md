@@ -3,6 +3,3 @@ At present, as part of our exploratory research around single source kernels and
 A web shell for benchmarking compute kernels will be available in a technical preview in Q1 2024.
 
 Please don’t hesitate to contact us at [hello@tilekit.dev](mailto://hello@tilekit.dev) or join our [Discord](https://discord.gg/jNaYqjgRsB).
-
----
-Built with love, hard-work & Rust by [@feynon](https://ankeshbharti.com/) and contributors.
