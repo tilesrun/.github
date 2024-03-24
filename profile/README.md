@@ -1,3 +1,3 @@
-At present, as part of our exploratory research around single source kernels and automatic parallelization techniques, we are openly conducting a series of [hacks](https://github.com/tilekit/hacks) and making upstream [open source](https://github.com/tilekit/opensource) contributions to build on the vision of streaming compute engine from the ground up with quality foundations. The engine aims to provide real-time performance for compute-heavy workloads while abstracting away the complexity of writing such applications. We use Rust to build our software, employing web technologies like WebAssembly and WebGPU.
+We are exploring smarter and faster ways of working with compute, spanning browsers, compilers, and runtime technologies, particularly enhancing the usefulness of compute on consumer devices for AI and data apps.
 
-Please don’t hesitate to contact us at [hello@tilekit.dev](mailto://hello@tilekit.dev) or join our [Discord](https://discord.gg/jNaYqjgRsB).
+Please don’t hesitate to contact us at [hello@tiles.run](mailto://hello@tiles.run).
